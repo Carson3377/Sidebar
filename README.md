@@ -2,7 +2,7 @@ JavaScript Project --
 
 # Sidebar
  
-In this JavaScript project, we're going to create a sidebar this time with animation effects along with a toggle.At first, you will only see a visible toggle performing a bouncing effect on the blank page. Once your javascript functionality is worked, you'll be able to see a visible and moveable sidebar when the toggle is clicked.
+In this JavaScript project, we're going to create a sidebar this time with animation effects along with a toggle.At first, you will only see a visible toggle performing a bouncing effect on the blank page. Once your javascript functionality is worked, you'll be able to see a visible and moveable sidebar when the toggle is clicked. [Sidebar](https://carson3377.github.io/Sidebar/sidebar.html)
 
 Credit: FreeCodeCamp.org
 
